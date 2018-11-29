@@ -1,0 +1,16 @@
+{
+  "name": "e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iobroker.admin": "^3.4.7",
+    "iobroker.discovery": "^1.2.1",
+    "iobroker.js-controller": "^1.4.2"
+  }
+}
